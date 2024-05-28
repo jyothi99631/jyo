@@ -1,0 +1,10 @@
+linux commands
+git hub git bash
+maven
+jenkins
+sonar
+localrepository
+remote repository
+sudo yum install java 
+rpm install java
+thank you
