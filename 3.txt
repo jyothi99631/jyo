@@ -4,7 +4,4 @@ maven
 jenkins
 sonar
 localrepository
-remote repository
-sudo yum install java 
-rpm install java
-thank you
+
